@@ -1,4 +1,4 @@
 # flappy_bird_game
 ### images 
-<img src="Screenshot (287).png">
-<img src=""
+<img src="images/Screenshot (287).png">
+<img src="images/Screenshot (288).png"
